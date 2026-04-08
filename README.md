@@ -1,2 +1,2 @@
-# Static HTML Boilerplate
-Basic HTML, CSS, and JavaScript setup for a simple website.
+# Challenge #6: Layout Reproduction I
+Hacker News is a popular forum/social network for the technology community managed by Y Combinator—a well-known startup incubator. They have a classically old-school site, one that still uses <table> for layout (a general no-no). Reproduce this classic design using semantic HTML and CSS. Commit and publish your site to Netlify and upload the public Netlify and GitHub URLs to the C6: Dropbox.
